@@ -1,7 +1,7 @@
 # PLAY WITH KUBERNETES
 
 Obs: El laboratorio web no funciona debido a un error con dockercoins, aunque utilicé el repositorio oficial y lo cloné hay un error en el código. Es por eso que esta actividad será exploratoria con el fin de explicar cada concepto y abstraerlo lo mejor posible
-![alt text](image.png)
+![alt text](images/image.png)
 
 *Errores*
 ![alt text](image-1.png)
